@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamdev2005" alt="sakshamdev2005" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/SakshamDev2005?tab=repositories](https://github.com/SakshamDev2005?tab=repositories)
+- 👨‍💻 All of my projects are available at [SakshamDev2005](https://github.com/SakshamDev2005?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
